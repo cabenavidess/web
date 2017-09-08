@@ -1,0 +1,104 @@
+/**
+ * [a description]
+ * @type {[type]}
+ */
+
+#header.fixed #topNav a.logo>img {
+  height: 40px !important;
+}
+
+@media only screen and (max-width: 992px) header-1.css:76 #header #topNav a.logo>img {
+  max-height: 40px !important;
+}
+
+ul.process-steps li.active a, ul.process-steps li.active a:focus, ul.process-steps li.active:hover>a {
+  background-color: #CDDC39 !important;
+  border-color: #CDDC39 !important;
+}
+
+#sidepanel.sidepanel-theme-color, div.alert.alert-theme-color, div.alert.alert-primary, span.badge-default, span.label-default, .list-group-item.active>.badge.badge-default, .nav-tabs.nav-alternate>li.active>a, .datepicker table tr td.active.active, .callout-theme-color, .progress-bar-primary, .toast-primary, .owl-theme .owl-controls .owl-page span, .open>.dropdown-toggle.btn-primary, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:focus, .pagination>.active>a, .pagination>.active>a:hover, #header li.quick-cart .quick-cart-box a.btn, #header li.quick-cart .quick-cart-box a.btn:hover, #topMain.nav-pills>li.active>a>span.theme-color, .ei-slider-thumbs li.ei-slider-element, .flex-control-paging li a.flex-active, .tp-caption.block_theme_color, .tp-bullets.simplebullets.round .bullet.selected, i.ico-color, .caption-primary, .shop-list-options .btn.active, .box-static.box-color, .switch.switch-primary>input:checked+.switch-label, .fancy-file-upload.fancy-file-primary>span.button, .primary-slider .ui-slider .ui-slider-handle:before, .primary-slider .ui-slider .ui-slider-range, .ribbon-inner, .info-bar.info-bar-color, .music-album-title:hover, .inews-item .inews-thumbnail .inews-sticky, #progressBar #bar, #page-menu, #page-menu ul {
+  background-color: #CDDC39 !important;
+}
+
+.primary-slider .ui-slider .ui-slider-handle, .switch.switch-primary>input:checked+.switch-label, .timeline_center li h3:before, .timeline_center:after, a.thumbnail.active, a.thumbnail:hover, .hvr-reveal:before, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+  border-color: #CDDC39 !important;
+}
+
+h1>span, h2>span, h3>span, h4>span, h5>span, h6>span {
+  color: #C95A6C !important;
+}
+
+#footer {
+  color: rgba(255, 255, 255, 0.6);
+  /*background: #FF8C00 !important;E54E6B*/
+  background: #E54E6B !important;
+  background: -moz-linear-gradient(top, #555555 0%, #313131 100%) !important;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #1a1d2b), color-stop(100%, #313131));
+  background: -webkit-linear-gradient(top, #555555 0%, #313131 100%);
+  background: -o-linear-gradient(top, #555555 0%, #313131 100%);
+  background: -ms-linear-gradient(top, #555555 0%, #313131 100%);
+  background: linear-gradient(to bottom, #555555 0%, #313131 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#555555 !important', endColorstr='#313131', GradientType=0);
+}
+
+a.social-icon.social-icon-border:hover {
+  border-color: transparent;
+}
+
+a.social-icon.social-icon-border {
+  background-color: transparent;
+  border: #fff 1px solid !important;
+  color: #fff !important;
+  text-shadow: none;
+}
+
+a.social-icon.social-icon-sm, a.social-icon.social-icon-sm>i {
+  width: 30px;
+  height: 30px;
+  margin-top: 3px;
+  font-size: 17px;
+  line-height: 23px;
+}
+
+#footer form input, #footer form textarea {
+  color: #fff;
+  /*background-color: rgba(0, 0, 0, .2);*/
+  border-color: rgba(0, 0, 0, .25);
+  margin-bottom: 6px;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.SendButton {
+  background-color: #44AFFF;
+  color: white !important;
+  /*border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;*/
+  cursor: pointer;
+}
+
+.timeline-Widget {
+  height: 200px !important;
+}
+
+.img-staff {
+  height: 90px !important;
+  max-width: 90px !important;
+  margin-bottom: 30px;
+  margin-top: -20px !important;
+  margin-right: 10px !important;
+  border-radius: 50%;
+}
+
+.big-letter{
+  font-size: 22px !important;
+  font-style: bold !important;
+}
